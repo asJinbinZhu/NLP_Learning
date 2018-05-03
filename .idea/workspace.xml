@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb61a73f-289a-486b-acf9-b12a3134b81b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_000PythonBasic/_001List.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_003LSTM_for_MNIST/_000DataLoader.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_003LSTM_for_MNIST/_002SimpleLSTMBased.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/processed/test.pt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/processed/training.pt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/raw/t10k-images-idx3-ubyte" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/raw/t10k-labels-idx1-ubyte" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/raw/train-images-idx3-ubyte" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/raw/train-images-idx3-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data/raw/train-labels-idx1-ubyte" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data_prune/mlp_pretrain.pkl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data_prune/mlp_pruned.pkl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data_prune/sorted_record_big_to_small.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data_prune/sorted_record_small_to_big.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/data_prune/unsorted_record_one_picture.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/log-retrain" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/log-retrain-1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/model_init_params.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/model_nn.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/model_nn_retrain.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_pruning-random.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_pruning.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_pruning_reverse.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_retrain.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_sort.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/neural_unsort_one_picture.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/prune-test.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/retrain.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.15" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.25" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-random-rate0.4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.15" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.25" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-rate0.4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.15" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.25" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_002from_wangxu/save/log-neural-pruning-reverse-rate0.4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_003LSTM_Model/_001SimpleLSTM.py" afterPath="$PROJECT_DIR$/_002LSTM_Model/_001SimpleLSTM.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +19,8 @@
       <file leaf-file-name="_001SimpleLSTM.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_002LSTM_Model/_001SimpleLSTM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="71">
+              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -69,11 +28,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_002StackedLSTM.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_002StackedLSTM.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_002LSTM_Model/_002StackedLSTM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="128">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_002SimpleLSTMBased.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_003LSTM_for_MNIST/_002SimpleLSTMBased.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_000DataLoader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_003LSTM_for_MNIST/_000DataLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -110,6 +93,10 @@
         <option value="$PROJECT_DIR$/_002from_wangxu/neural_sort.py" />
         <option value="$PROJECT_DIR$/_003LSTM_Model/_001SimpleLSTM.py" />
         <option value="$PROJECT_DIR$/_003LSTM_Model/_002StackedLSTM.py" />
+        <option value="$PROJECT_DIR$/_000PythonBasic/_001List.py" />
+        <option value="$PROJECT_DIR$/_002LSTM_Model/_002StackedLSTM.py" />
+        <option value="$PROJECT_DIR$/_003LSTM_for_MNIST/_002SimpleLSTMBased.py" />
+        <option value="$PROJECT_DIR$/_003LSTM_for_MNIST/_000DataLoader.py" />
       </list>
     </option>
   </component>
@@ -146,12 +133,12 @@
             <path>
               <item name="NLP_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLP_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="_001pre_processing" type="462c0819:PsiDirectoryNode" />
+              <item name="_002LSTM_Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NLP_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLP_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="_002LSTM_Model" type="462c0819:PsiDirectoryNode" />
+              <item name="_003LSTM_for_MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,20 +167,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._002StackedLSTM">
-    <configuration name="_001SimpleLSTM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python._000DataLoader">
+    <configuration name="_000DataLoader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_003LSTM_Model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_003LSTM_for_MNIST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NLP_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_003LSTM_Model/_001SimpleLSTM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_003LSTM_for_MNIST/_000DataLoader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_001List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_000PythonBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NLP_Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_000PythonBasic/_001List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_002SimpleLSTMBased" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_003LSTM_for_MNIST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NLP_Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_003LSTM_for_MNIST/_002SimpleLSTMBased.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_002StackedLSTM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_002LSTM_Model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NLP_Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_002LSTM_Model/_002StackedLSTM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,74 +258,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="neural_pruning-random" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_002from_wangxu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NLP_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_002from_wangxu/neural_pruning-random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="neural_pruning" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_002from_wangxu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NLP_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_002from_wangxu/neural_pruning.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="neural_pruning_reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_002from_wangxu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NLP_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_002from_wangxu/neural_pruning_reverse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.neural_pruning" />
-      <item index="1" class="java.lang.String" itemvalue="Python.neural_pruning_reverse" />
-      <item index="2" class="java.lang.String" itemvalue="Python.neural_pruning-random" />
-      <item index="3" class="java.lang.String" itemvalue="Python._001SimpleLSTM" />
-      <item index="4" class="java.lang.String" itemvalue="Python._002StackedLSTM" />
+      <item index="0" class="java.lang.String" itemvalue="Python._002StackedLSTM" />
+      <item index="1" class="java.lang.String" itemvalue="Python._001List" />
+      <item index="2" class="java.lang.String" itemvalue="Python._002StackedLSTM (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python._002SimpleLSTMBased" />
+      <item index="4" class="java.lang.String" itemvalue="Python._000DataLoader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python._002StackedLSTM" />
-        <item index="1" class="java.lang.String" itemvalue="Python._001SimpleLSTM" />
-        <item index="2" class="java.lang.String" itemvalue="Python.neural_pruning_reverse" />
-        <item index="3" class="java.lang.String" itemvalue="Python.neural_pruning-random" />
-        <item index="4" class="java.lang.String" itemvalue="Python.neural_pruning" />
+        <item index="0" class="java.lang.String" itemvalue="Python._000DataLoader" />
+        <item index="1" class="java.lang.String" itemvalue="Python._002SimpleLSTMBased" />
+        <item index="2" class="java.lang.String" itemvalue="Python._002StackedLSTM (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python._001List" />
+        <item index="4" class="java.lang.String" itemvalue="Python._002StackedLSTM" />
       </list>
     </recent_temporary>
   </component>
@@ -306,11 +293,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="313" y="10" width="2448" height="1594" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23630416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23630416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18033946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5579915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -388,10 +376,18 @@
     <entry file="file://$PROJECT_DIR$/_002from_wangxu/model_nn_retrain.py" />
     <entry file="file://$PROJECT_DIR$/_002from_wangxu/neural_sort.py" />
     <entry file="file://$PROJECT_DIR$/_002from_wangxu/data_prune/sorted_record_small_to_big.txt" />
+    <entry file="file://$PROJECT_DIR$/_000PythonBasic/_001List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_002LSTM_Model/_001SimpleLSTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="71">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -400,8 +396,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_002LSTM_Model/_002StackedLSTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="128">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_003LSTM_for_MNIST/_002SimpleLSTMBased.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_003LSTM_for_MNIST/_000DataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
